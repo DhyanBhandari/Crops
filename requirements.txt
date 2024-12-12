@@ -6,3 +6,6 @@ plotly
 scikit-learn 
 lightgbm 
 joblib
+Flask
+joblib
+numpy
